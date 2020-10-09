@@ -12,5 +12,6 @@ Blockchain is a decentralized technology that allows for secure data sharing. Bl
 ### Why is blockchain secure?
 Blockchain is secure because it relies heavily on secure cryptographic hash functions. These hash functions, a digital signature, and a proof-of-work algorithm ensure that the data is valid and not tampered with. Overall, blockchain is a revolutionary, secure technology.
 ### How does blockchain protect elections?
-Blockchain protects elections at all stages. First, it makes sure that the votes are intact and legitimate. This means that they aren't being tampered with en-route. Next, it makes it almost impossible to tamper with data in the distributed ledger. This means that it can't be hacked into and changed. Finally, it makes it simpler to tally up the votes with a computer program, rather than checking the ballots by hand.
+Blockchain protects elections at all stages. First, it makes sure that the votes are intact and legitimate. This means that they aren't being tampered with en-route. Next, it makes it almost impossible to tamper with data in the distributed ledger. This means that it can't be hacked into and changed. Finally, it makes it simpler to tally up the votes with a computer program, rather than checking the ballots by hand.    
+
 ![Screenshot](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/10/30144648/blockchain-election-security-solutions-10.30.2018-880x1339.png)
