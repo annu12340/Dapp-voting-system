@@ -9,5 +9,8 @@
 ## What is blockchain?
 Blockchain is a decentralized technology that allows for secure data sharing. Blockchain is a type of distributed ledger for maintaining a permanent and tamper-proof record of transactional data. A blockchain functions as a decentralized database that is managed by computers belonging to a peer-to-peer P2P network. Each of the computers in the distributed network maintains a copy of the ledger to prevent a single point of failure and all copies are updated and validated simultaneously. Blockchain applications are being explored in many industries as a secure and cost-effective way to create and manage a distributed database and maintain records for digital transactions of all types. In this case, the "transactions" are votes, which are distributed across the decentralized network.
 ![Screenshot](https://www.garyfox.co/wp-content/uploads/2017/07/blockchain-applications-infographic-featured.jpg)
-## Why is blockchain secure?
+### Why is blockchain secure?
 Blockchain is secure because it relies heavily on secure cryptographic hash functions. These hash functions, a digital signature, and a proof-of-work algorithm ensure that the data is valid and not tampered with. Overall, blockchain is a revolutionary, secure technology.
+### How does blockchain protect elections?
+Blockchain protects elections at all stages. First, it makes sure that the votes are intact and legitimate. This means that they aren't being tampered with en-route. Next, it makes it almost impossible to tamper with data in the distributed ledger. This means that it can't be hacked into and changed. Finally, it makes it simpler to tally up the votes with a computer program, rather than checking the ballots by hand.
+![Screenshot](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/10/30144648/blockchain-election-security-solutions-10.30.2018-880x1339.png)
